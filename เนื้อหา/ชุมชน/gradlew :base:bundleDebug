@@ -1,0 +1,164 @@
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the√ License.Copyright [yyyy] [prindaaek@gmail.com] 
+<! >
+< html  lang =" th " >
+< หัว>
+    < meta  charset =" UTF-8 " >
+    < meta  http-equiv =" X-UA-Compatible " content =" IE=edge " >
+    < meta  name =" viewport " content =" width=device-width, initial-scale=1.0 " >
+    < meta  name =" keyword " content =" Maruay99, ข้อมูลติดต่อ " >
+    < meta  name =" description " content =" ติดตามเข้ามาได้ตลอด 24 ชั่วโมง " >
+    < title >ขายดี - มารวย99 </ title >
+    < link  rel =" stylesheet " href =" https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css " ความสมบูรณ์ =" sha384 -GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMP0DgiMDm4iYMj70g > 6WSKY ไม่ระบุชื่อ "
+    < ลิงก์ rel =" สไตล์ชีต " href =" ../css/custom_new.css " >
+    < ลิงก์ rel =" ไอคอน " href =" ../images/logo.png " ประเภท =" image/x-icon " >
+    < link  rel =" ไอคอนทางลัด " href =" ../images/logo.png " type =" image/x-icon " >
+</ head >
+< ร่างกาย>
+    < nav  class =" title-nav position-fixed navbar navbar-expand-lg navbar-dark bg-dark align-items-center justify-content-end w-100 top-0 " >
+        < a  class =" logo nav-link position-absolute p-0 ph-only " href =" index.html " > < img  class =" logo-img w-100 " src =" ../images/logo.png " alt ="" > </ a >
+        < คลาสปุ่ม  =" navbar-toggler " ประเภท =" ปุ่ม " data-toggle =" ยุบ " data-target =" #navbarSupportedContent " aria-controls =" navbarSupportedContent " aria-expanded =" false " aria-label =" Toggle navigation " >
+            < span  class =" navbar-toggler-icon " > </ span >
+        </ ปุ่ม>
+        < คลาสdiv  =" ยุบ navbar-collapse " id =" navbarSupportedContent " >
+            < ul  class =" navbar-nav mr-auto mx-auto " >
+                < li  class =" nav-item text-center " >
+                    < a  class =" nav-link " href =" index.html " > < img  class =" w-100 pc-only " src =" ../images/iCON_Home-TH.png " > < span  class =" ph -only justify-content-center " >หน้าแรก</ span > </ a >
+                </ li >
+                < li  class =" nav-item text-center " >
+                    < a  class =" nav-link " href =" game.html " > < img  class =" w-100 pc-only " src =" ../images/iCON_Game-TH.png " > < span  class =" ph -only justify-content-center " >เกม</ span > </ a >
+                </ li >
+                < li  class =" nav-item text-center " >
+                    < a  class =" nav-link " href =" promotion.html " > < img  class =" w-100 pc-only " src =" ../images/iCON_News-TH.png " > < span  class =" ph -only justify-content-center " >โปรโมชั่น</ span > </ a >
+                </ li >
+                < li  class =" nav-item text-center pc-only " >
+                    < a  class =" logo nav-link position-relative " href =" index.html " > < img  class =" logo-img position-absolute w-100 " src =" ../images/logo.png " alt = "" > </ a >
+                </ li >
+                < li  class =" nav-item text-center " >
+                    < a  class =" nav-link " href =" leaderboard.html " > < img  class =" w-100 pc-only " src =" ../images/iCON_Ranking-TH.png " > < span  class =" ph -only justify-content-center " >ลีดเดอร์บอร์ด</ span > </ a >
+                </ li >
+                < li  class =" nav-item text-center " >
+                    < a  class =" nav-link " href =" diamond.html " > < img  class =" w-100 pc-only " src =" ../images/iCON_Gift-TH.png " > < span  class =" ph -only justify-content-center " >เพชร</ span > </ a >
+                </ li >
+                < li  class =" nav-item text-center " >
+                    < a  class =" nav-link " href =" contact.html " > < img  class =" w-100 pc-only " src =" ../images/iCON_US-TH.png " > < span  class =" ph -only justify-content-center " >เนื้อหาเรา</ span > </ a >
+                </ li >
+            </ ul >
+            < div  class =" lag-box position-pc-absolute d-flex justify-content-center top-0 right-0 text-light " >
+                < a  class =" dropdown-item w-50 d-flex flex-column align-items-center justify-content-center px-2 " href =" contact.html " >
+                    < img  class =" w-100 mb-2 " src =" ../images/FlagTh-AW-WEB-ICON-Flag-20012022.png " alt ="" > < img  class =" w-75 pc-only " src =" ../images/TextTh-AW-WEB-ICON-Flag-20012022.png " >
+                </ a >
+                < a  class =" dropdown-item w-50 d-flex flex-column align-items-center justify-content-center px-2 " href =" ../en/contact.html " >
+                    < img  class =" w-100 mb-2 " src =" ../images/FlagEng-AW-WEB-ICON-Flag-20012022.png " alt ="" > < img  class =" w-75 pc-only " src =" ../images/TextEng-AW-WEB-ICON-Flag-20012022.png " >
+                </ a >
+            </ div >
+        </ div >
+    </ nav >
+
+    <!-- แถบคงที่ -->
+    < คลาสdiv  =" ตำแหน่งคงที่ d-flex flex-column flex-md-row align-items-center justify-content-between p-1 fixed-dl-bar " >
+        < a  id =" download_btn " class =" ml-2 th-wd " href ="" >ดาวน์โหลด</ a >
+    </ div >
+
+    <!-- แถบ DL คงที่ -->
+    < คลาสdiv  =" ตำแหน่งคงที่ d-flex flex-column flex-md-row align-items-center justify-content-between p-1 fixed-dl-solid " >
+        < ประเภทปุ่ม  =" ปุ่ม " class =" btn btnBox " data-toggle =" modal " data-target =" #exampleModal " >
+            < img  class =" w-100 " src =" ../images/Ruled.gif " >
+        </ ปุ่ม>
+    </ div >
+    
+    <!-- โมดอล -->
+    < div  class =" modal fade " id =" exampleModal " tabindex =" -1 " role =" กล่องโต้ตอบ " aria-labelledby =" exampleModalLabel " aria-hidden =" true " >
+        < div  class =" modal-dialog " role =" document " >
+            < div  class =" modal-content " >
+                < div  class =" modal-header " >
+                    < h5  class =" modal-title th-wd " id =" exampleModalLabel " >ดาวน์โหลด</ h5 >
+                    < ประเภทปุ่ม  =" ปุ่ม " class =" ปิด " data-dismiss =" modal " aria-label =" ปิด " >
+                        < span  aria-hidden =" true " > × </ span >
+                    </ ปุ่ม>
+                </ div >
+                < คลาสdiv  =" modal-body d-flex flex-column align-items-center " >
+                    < a  class =" my-2 " href =" https://play.google.com/store/apps/details?id=com.starcube.Maruay99&shortlink=WebMR99Download&pid=Web-MR99-Download " > < img  class =" img-fluid " src =" ../images/android.png " alt ="" > </ a >
+                    < a  class =" my-2 " href =" https://cdn.maruay99.com/apk/maruay99.apk " > < img  class =" img-fluid " src =" ../images/apk_ios.png " alt ="" > </ a >
+                </ div >
+            </ div >
+        </ div >
+    </ div >
+    
+    < main  class =" container-fluid p-0 contact " >
+        < div  class =" w-100 overflow-hidden d-flex align-items-center justify-content-center contact-img " >
+            < h2  class =" position-absolute text-light " >ติดต่อเรา</ h2 >
+        </ div >
+
+        < section  class =" container-fluid p-0 " >
+            
+            < div  class =" container-fluid p-0 " >
+                < div  class =" คอนเทนเนอร์ " >
+                    < div  class =" row w-100 m-0 py-4 " >
+                        < คลาสdiv  =" col-12 col-md-6 text-center d-flex flex-column align-items-center justify-content-between " >
+                            < h4  class =" text-warning " >เพิ่มเพื่อนใน LINE ด้วยคิวอาร์โค้ด</ h4 >
+                            < img  src =" ../images/QR-code.jpg " >
+                        </ div >
+                        < คลาสdiv  =" col-12 col-md-6 text-center d-flex flex-column align-items-center justify-content-center " >
+                            < h4  class =" text-warning " > เป้าหมาย เป้าหมาย </ h4 >
+                            < h4  class =" text-warning " >ทำได้</ h4 >
+                            < h4  class =" text-warning " >ทุกวัน 24 ชั่วโมง</ h4 >
+                            < a  class =" cbtn fb w-100 d-flex align-items-center justify-content-around mb-3 " href =" https://www.facebook.com/MaRuay99 " >
+                                < img  class =" icon " src =" ../images/facebook.png " alt ="" >มารวย99
+                            </ a >
+                            < a  class text-warninghttps://github.com/prindawigidgindawongsudo : จำเป็น
+บริการ : - นักเทียบท่า
+สคริปต์ : - | export VERSION=$(ชื่อฐาน $TRAVIS_BRANCH) && นักเทียบท่าเข้าสู่ระบบ -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD" && นักเทียบท่า build -t cusspvz/node:${VERSION} && นักเทียบท่า run -ti --rm cusspvz/node:${VERSION} ping && นักเทียบท่า build -t cusspvz/node:${VERSION}-onbuild -f Dockerfile.onbuild && นักเทียบท่า build -t cusspvz/node:${VERSION}-onbuild-yarn -f Dockerfile.onbuild-yarn && นักเทียบท่า build -t cusspvz/node:${VERSION}-development -f Dockerfile.development && นักเทียบท่ากด cusspvz/node:${VERSION} && นักเทียบท่ากด cusspvz/node:${VERSION}-onbuild && นักเทียบท่ากด cusspvz/node:${VERSION}-การพัฒนา && ทางออก 0 || ทางออก 1{{Use mdy dates|date=October 2018}}
+{{Missing information||revenue sources, membership numbers|date=April 2021}}{{Infobox organization
+| name                = The Apache Software Foundation
+| logo                = ASF Logo.svg
+| type                = [[501(c)(3) organization]]
+| founded_date        = {{Start date and age|1999|03|25}}
+| founders            = {{Hlist|[[Brian Behlendorf]]|[[Ken Coar]]|Mark Cox|[[Lars Eilebrecht]]|Ralf S. Engelschall|[[Roy T. Fielding]]|Dean Gaudet|Ben Hyde|[[Jim Jagielski]]|Alexei Kosut|Martin Kraemer|[[Ben Laurie]]|Doug MacEachern|Aram Mirzadeh|[[Sameer Parekh]]|Cliff Skolnick|Marc Slemko|Bill Stoddard|Paul Sutton|[[Randy Terbush]]|[[Dirk-Willem van Gulik]]}}
+| location            = [[Wakefield, Massachusetts]], U.S.
+| origins             = 
+| key_people          = 
+| area_served         = 
+| product             = 
+| focus               = [[Open-source software]]
+| method              = [[Apache License]]
+| revenue             = {{decrease}} $2.26 million<ref name="nonprofit-explorer">{{cite web|url=https://projects.propublica.org/nonprofits/organizations/470825376/202130539349300643/full|publisher=[[ProPublica]]|work=Nonprofit Explorer|access-date=23 January 2021}}</ref>
+| revenue_year        = 2019
+| endowment           = 
+| num_volunteers      = 
+| num_employees       = 
+| num_members         = 
+| owner               = 
+| Non-profit_slogan   = 
+| homepage            = {{URL|https://www.apache.org}}./gradlew :base:bundleDebug
+| dissolved           = 
+| footnotes           = 
+}}
+'''The Apache Software Foundation''' {{IPAc-en|ə|ˈ|p|æ|tʃ|i}} ('''ASF''') is an American [[nonprofit corporation]] (classified as a [[501(c)(3) organization]] in the United States) to support a number of open source software projects. The ASF was formed from a group of developers of the [[Apache HTTP Server]], and incorporated on March 25, 1999.<ref name=incorporation>
+{{cite web |first=Roy T. |last=Fielding |title=Certificate of Incorporation of the Apache Software Foundation |url=https://www.apache.org/foundation/records/certificate.html |access-date=May 26, 2009 |archive-url=https://web.archive.org/web/20090531160220/http://apache.org/foundation/records/certificate.html |archive-date=May 31, 2009  |url-status=live}}
+</ref><ref name=effDate>{{cite web |first=Jim |last=Jagielski |title=The Apache Software Foundation Board of Directors Meeting Minutes 01 June 1999 |url=https://www.apache.org/foundation/records/minutes/1999/board_minutes_1999_06_01.txt |access-date=May 26, 2009}}</ref> As of 2021, it includes approximately 1000 members.<ref>{{cite web |title=ASF Committers by auth group |url=http://home.apache.org/committers-by-project.html#member |website=home.apache.org |date=2021-07-02}}</ref>
+
+The Apache Software Foundation is a decentralized open source community of developers. The software they produce is distributed under the terms of the [[Apache License]] and is a non-[[copyleft]] form of [[free and open-source software]] (FOSS). The Apache projects are characterized by a collaborative, consensus-based development process and an open and pragmatic software license, which is to say that it allows developers who receive the software freely, to re-distribute it under nonfree terms.<ref>{{Cite web|last=Smith|first=Brett|date=10 June 2011|title=Statement on OpenOffice.org's move to Apache|url=https://www.fsf.org/news/openoffice-apache-libreoffice|url-status=live|website=[[Free Software Foundation]]}}</ref>  Each project is managed by a self-selected team of technical experts who are active contributors to the project. The ASF is a [[meritocracy]], implying that membership of the foundation is granted only to volunteers who have actively contributed to Apache projects. The ASF is considered a second generation [[Open-source software|open-source]] organization,{{Cn|date=April 2021}} in that commercial support is provided without the risk of [[platform lock-in]].
+
+Among the ASF's objectives are: to provide legal protection to volunteers working on Apache projects; to prevent the ''Apache'' brand name from being used by other organizations without permission.
+
+The ASF also holds several [[ApacheCon]] conferences each year, highlighting Apache projects and related technology.<ref>{{cite web |url=http://www.apachecon.com/ |title=apachecon.com |publisher=apachecon.com |access-date=June 26, 2014}}</ref>Copyright [yyyy] [prindaaek@gmail.com]Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions Android
